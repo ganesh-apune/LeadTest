@@ -25,3 +25,8 @@ To run this project, install it locally using npm
 
 npm install
 node index.js or use nodemon 
+
+# Test
+import this url in postman tool
+https://www.getpostman.com/collections/9cbf90940b1b3dd15608
+
