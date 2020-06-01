@@ -13,8 +13,11 @@ Admin Features (uses APIs with auth)
 
 # Technologies
 ●	RemoteMySQL (Free MySQL Host)
+
 ●	Github
+
 ●	Passport Auth for authentication
+
 ●	Node express sequalize
 
 # Setup
